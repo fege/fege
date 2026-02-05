@@ -33,7 +33,7 @@ Experienced engineer with over 13+ years of industry experience, specializing in
     <table align="center">
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api/?username=fege&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=merko&rank_icon=github&custom_title=Fege%27s%20stats" alt="GitHub Stats currently offline" height="170px" />
+                <img src="https://github-readme-stats-fast.vercel.app/api/?username=fege&show=reviews&show_icons=true&theme=merko&rank_icon=github&custom_title=Fege%27s%20stats" alt="GitHub Stats currently offline" height="170px" />
             </td>
         </tr>
     </table>
